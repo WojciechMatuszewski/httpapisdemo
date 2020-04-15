@@ -1,0 +1,10 @@
+{
+  "CognitoUserPoolId": "eu-central-1_eEi7uyatB",
+  "CognitoRedirectSignIn": "http://localhost:3000",
+  "CognitoOAuthResponseType": "token",
+  "CognitoScope": "email, profile, openid",
+  "AWSRegion": "eu-central-1",
+  "CognitoRedirectSignOut": "http://localhost:3000",
+  "CognitoUserPoolWebClientId": "65r9roa559itkd0p0itvm3l50h",
+  "CognitoDomain": "wojtek-httpapisdemo4-user-pool-domain.auth.eu-central-1.amazoncognito.com"
+}

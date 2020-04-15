@@ -1,0 +1,11 @@
+node_modules
+.bin
+.serverless
+random.md
+
+/backend.idea
+.idea
+.env
+
+/fontend/node_modules
+/frontend/dist

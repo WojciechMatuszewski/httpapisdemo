@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "root"
+    },
+    {
+      "path": "backend"
+    },
+    {
+      "path": "frontend"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      // trash
+      "**/.bin": true,
+      "**/.idea": true
+      // // prevent root stuff
+      // "**/backend/**": true,
+      // "**/frontend/**": true
+    }
+  }
+}
